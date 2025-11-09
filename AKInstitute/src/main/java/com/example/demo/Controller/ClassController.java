@@ -10,7 +10,7 @@ public class ClassController {
 	      public void main() {
 	    	  
 	    	  
-	    	   System.out.println("fbdhcdbc");
+	    	   System.out.println("fbdxcnjdcm kdnc");
 	    	  
 	      }
 	
