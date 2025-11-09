@@ -10,7 +10,7 @@ public class ClassController {
 	      public void main() {
 	    	  
 	    	  
-	    	   System.out.println("welcome to the world");
+	    	   System.out.println("welcome to");
 	    	  
 	      }
 	
